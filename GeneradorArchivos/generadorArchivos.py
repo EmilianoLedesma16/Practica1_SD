@@ -22,6 +22,6 @@ for i in range(1, 11):
             )
             f.write(linea + "\n")
     
-    print(f"📄 Archivo generado: {filename}")
+    print(f"Archivo generado: {filename}")
 
 print("\n Se han generado 10 archivos con texto aleatorio.")
