@@ -24,4 +24,4 @@ for i in range(1, 11):
     
     print(f"📄 Archivo generado: {filename}")
 
-print("\n✅ Se han generado 10 archivos con texto aleatorio.")
+print("\n Se han generado 10 archivos con texto aleatorio.")
